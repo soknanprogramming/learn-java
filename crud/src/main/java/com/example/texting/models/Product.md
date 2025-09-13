@@ -1,0 +1,11 @@
+### Prodcuct
+- id -> Primarrykey
+- name -> String
+- desc -> String
+- brand -> String
+- price -> Int
+- Category -> String
+- releaseDate -> String
+- available -> boolean
+- quantity -> Int
+- Image ?
